@@ -6,7 +6,6 @@ import StreamForm from './StreamForm';
 
 class StreamCreate extends React.Component{
     
-   
     onSubmit = formValues =>{
         //console.log(formValues);
         //formValues.preventDefault();
